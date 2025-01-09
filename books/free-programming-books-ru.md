@@ -466,13 +466,13 @@
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
 * [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
-* [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
+* [Учебник Python 3.1](https://ru.wikibooks.org/wiki/Python/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA_Python_3.1) - Викиучебник
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
-* [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php) - C. Шапошникова
+* [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython/course) - C. Шапошникова
 * [Python. Введение в программирование](https://younglinux.info/python/course) - C. Шапошникова
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
-* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
+* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter/course) - C. Шапошникова
 
 
 #### Django
