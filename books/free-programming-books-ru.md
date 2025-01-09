@@ -469,7 +469,7 @@
 * [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
 * [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php) - C. Шапошникова
-* [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
+* [Python. Введение в программирование](https://younglinux.info/python/course) - C. Шапошникова
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
 * [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
